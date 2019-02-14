@@ -50,7 +50,6 @@ class LoginForm extends Component {
   }
 
   render() {
-    console.log(firebase)
     return (
       <Card>
         <CardSection>
